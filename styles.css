@@ -1,0 +1,13 @@
+body {
+  color:navy;
+  background-color:lightsteelblue;
+}
+
+.parent {
+  display:flex;
+  margin:auto;
+}
+
+.child {
+  margin: 15px;
+}
